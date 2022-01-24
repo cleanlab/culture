@@ -39,3 +39,11 @@ These principles define how we **ACT**: **A**ct, **T**hink, and **C**reate.
 
 #### 8. Have Courageous Conversations
 * Be brave. Give each other honest feedback when there is a problem. These conversations diversify thinking and enhance empathy.
+
+## Acknowledgements
+
+We are inspired to publicly share this document describing our culture and
+values by other companies like
+[CoactiveAI](https://github.com/CoactiveAI/culture),
+[GitLab](https://about.gitlab.com/company/culture/), and many others that have
+also done so.
